@@ -60,13 +60,6 @@ As a backend engineer in Qasir, my day-to-day responsibility is developing & mai
 - Implemented non-relational database, such as MongoDB and Elasticsearch
 - Ensuring data consistency between payment system and finance ops
 
-<br><br>
-// TODO
-- Grab?
-- PPOB
-- design topup mitra qasir
-- microsite page
-
 **_Technologies used:_**  Golang, gRPC, PHP, Laravel, LAMP/XAMPP, Elasticsearch, MongoDB, Redis, PostgreSQL, MySQL, Elastic APM, Kiali, Vault by Hashicorp, Drone/Gitlab Pipeline, GCP, Google PubSub, AWS
 <br><br>
 
@@ -74,17 +67,17 @@ As a backend engineer in Qasir, my day-to-day responsibility is developing & mai
 <h3> PT Rajamobil Media (rajamobil.com) </h3>
 
 **Web Developer** @ [Rajamobil](https://www.rajamobil.com/) _(Sep 2017 - May 2019)_ <br>
-I worked at Rajamobil as a web developer, whose job is to developed and maintain the Rajamobil website along with the MyRajamobil application and also websites for Rajamobil clients.
+I worked at Rajamobil as a web developer, whose job is to developed and maintain the Rajamobil website along with the MyRajamobil application and also Rajamobil backoffice.
 
 **_Notable activities & responsibilities :_**
 - Assisted senior developers in designing and implementing backend functionalities
-- Develop and maintain Rajamobil Website and Rajamobil internal dashboard
-- Develop and maintain API, used for MyRajamobil application & Rajamobil clients
-- Designing and develop backend systems for Panel Rajamotor using PHP and YII-2
+- Develop and maintain Rajamobil Website and Rajamobil backoffice
+- Develop and maintain API, used for MyRajamobil application 
+- Designing and develop backend systems for Backoffice Rajamotor using PHP and YII-2
 - Participated in code reviews and implemented improvements based on feedback
 - Mentoring internship developers, providing guidance, code reviews, and knowledge sharing sessions
 
-**_Technologies used:_** PHP, YII Framework, Node.js, MySQL, HTML, CSS, JavaScript
+**_Technologies used:_** PHP, YII Framework, AngularJS, MySQL, HTML, CSS, JavaScript
 <br><br>
 
 <hr>
@@ -106,8 +99,17 @@ I worked at this company for 3 months as an internship student along with 2 of m
 <br><br>
 <hr> 
 
-## 👩🏻‍🎓 Education
+## 🛠️ Skills
+Golang, PHP, Laravel, Code Igniter, YII Framework
+<br>MySQL, PostgreSQL, MongoDB, Elasticsearch, Redis, TimescaleDB, InfluxDB
+<br>Kafka, RabbitMQ, Google PubSub
+<br>HTML, CSS, JavaScript
+<br>Git, Docker, Grafana
+<br>GCP, AWS, Kubernetes
+<br><br>
+<hr> 
 
+## 👩🏻‍🎓 Education
 **Bachelor of Information Systems** <br>
 [University of Binaniaga Indonesia](https://www.unbin.ac.id/) - Bogor, Indonesia _(2018 - 2022)_
 
@@ -119,4 +121,3 @@ I worked at this company for 3 months as an internship student along with 2 of m
 ## 💬 Languages
 - Indonesian
 - English
-  <br>
