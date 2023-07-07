@@ -37,7 +37,7 @@ I work for backend technical related matter in "Payment" and "User Platform" squ
 - Participated in scrum ceremonies and actively contributed to sprint planning and backlog grooming
 - Ensuring data consistency between payment system and finance ops
 
-**_Technologies used:_** Golang, gRPC, PHP, YII Framework, Docker, Kafka, RabbitMQ, MySQL, PostgreSQL, Kubernetes, Helm, Github Action, Grafana, Timescale, Jaeger, GCP, AWS, Redis
+**_Technologies used:_** Golang, gRPC, PHP, YII Framework, Docker, Kafka, RabbitMQ, MySQL, PostgreSQL, TimescaleDB, Maxwells Daemon, Kubernetes, Helm, Github Action, Grafana, Jaeger, GCP, AWS, Redis
 <br><br>
 
 <hr>
@@ -101,11 +101,12 @@ I worked at this company for 3 months as an internship student along with 2 of m
 
 ## 🛠️ Skills
 Golang, PHP, Laravel, Code Igniter, YII Framework
-<br>MySQL, PostgreSQL, MongoDB, Elasticsearch, Redis, TimescaleDB, InfluxDB
+<br>MySQL, PostgreSQL, MongoDB, Elasticsearch, Redis
+<br>TimescaleDB, Maxwell Daemon
 <br>Kafka, RabbitMQ, Google PubSub
 <br>HTML, CSS, JavaScript
 <br>Git, Docker, Grafana
-<br>GCP, AWS, Kubernetes
+<br>GCP, AWS, Kubernetes, Github Action
 <br><br>
 <hr> 
 
