@@ -2,13 +2,14 @@
 
 _Results-driven Backend Engineer with 5 years of experience in designing, developing, and optimizing robust and scalable software solutions. Proficient in multiple programming languages and frameworks, I specialize in building high-performance, secure, and efficient backend systems._
 <br>_I have a proven track record of delivering projects on time and exceeding company expectations._
-<br>_With a strong focus on code quality and best practices, I am dedicated to continuously learning and staying updated with the latest technologies in the industry._ <br>
+<br>_With a strong focus on code quality and best practices, I am dedicated to continuously learning and staying updated with the latest technologies in the industry._ <br><br>
 
 ## 📍 What / Where I want to be
 I am seeking opportunities to work on challenging projects where I can leverage my skills and collaborate with talented professionals to make a significant impact in the field of backend engineering.
 
 [Email](mailto:mellyza724@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mellyzarsmwn/)
 / [GitHub](https://github.com/mellyzarsmwn/)
+<br><br>
 
 ## 👩🏼‍💻 Engineering Experience
 
@@ -120,5 +121,6 @@ Golang, PHP, Laravel, Code Igniter, YII Framework
 <hr>
 
 ## 💬 Languages
-- Indonesian
-- English
+🇮🇩 Indonesian : Mother tongue
+<br>
+🇬🇧 English : Conversation
